@@ -1,3 +1,5 @@
 # Estructura de Datos
 
-##Primer Parcial
+## Primer Parcial
+
+- (fizz buzz)[]
