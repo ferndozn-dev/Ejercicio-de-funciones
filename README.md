@@ -9,5 +9,5 @@
 - [Reto16](https://github.com/ferndozn-dev/Ejercicio-de-funciones/blob/main/Reto16.java)
 - [Reto17](https://github.com/ferndozn-dev/Ejercicio-de-funciones/blob/main/Reto17.java)
 - [Reto18](https://github.com/ferndozn-dev/Ejercicio-de-funciones/blob/main/Reto18.java)
-- [Funciones](https://github.com/ferndozn-dev/Ejercicio-de-funciones/blob/main/si.java), [LLamado de Funciones](https://github.com/ferndozn-dev/Ejercicio-de-funciones/blob/main/calculadora.java)
+- [Funciones Aritmeticas](https://github.com/ferndozn-dev/Ejercicio-de-funciones/blob/main/si.java), [LLamado de Funciones Aritmeticas](https://github.com/ferndozn-dev/Ejercicio-de-funciones/blob/main/calculadora.java)
 - [Contraseña](https://github.com/ferndozn-dev/Ejercicios-/blob/main/contrase%C3%B1a.java)
