@@ -11,4 +11,4 @@
 - [Reto18](https://github.com/ferndozn-dev/Ejercicio-de-funciones/blob/main/Reto18.java)
 - [Funciones Aritmeticas](https://github.com/ferndozn-dev/Ejercicio-de-funciones/blob/main/si.java), [LLamado de Funciones Aritmeticas](https://github.com/ferndozn-dev/Ejercicio-de-funciones/blob/main/calculadora.java)
 - [Contraseña](https://github.com/ferndozn-dev/Ejercicios-/blob/main/contrase%C3%B1a.java)
-- [Funciones](https://github.com/ferndozn-dev/Ejercicios-/blob/main/Funciones.java), []()
+- [Funciones](https://github.com/ferndozn-dev/Ejercicios-/blob/main/Funciones.java), [Llamado de Funciones](https://github.com/ferndozn-dev/Ejercicios-/blob/main/ejercicios_funciones.java)
